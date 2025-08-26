@@ -1,0 +1,26 @@
+{
+    "duelo_activo": false,
+    "hora_activacion": 0,
+    "participante1": "1063151294229004358",
+    "participante2": "665562230561046537",
+    "1063151294229004358": {
+        "nombre": "WeBon",
+        "puntos": 1000
+    },
+    "665562230561046537": {
+        "nombre": "Valentin",
+        "puntos": 1000
+    },
+    "884820408912740363": {
+        "nombre": "Pedro",
+        "puntos": 1000
+    },
+    "354727232507346954": {
+        "nombre": "Elu",
+        "puntos": 1000
+    },
+    "550375692370444303": {
+        "nombre": "Yerai",
+        "puntos": 1000
+    }
+}
